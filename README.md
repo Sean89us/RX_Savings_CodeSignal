@@ -1,1 +1,1 @@
-# RX_Savings_CodeSignal
+# This is a test repo used for stashing my code for RX Savings Solutions' CodeSignal Terraform coding challenge
